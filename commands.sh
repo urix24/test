@@ -1,2 +1,2 @@
 #!/bin/bash
-echo "First test" > /tmp/check
+echo "First test" > /var/lib/jenkins/workspace/test/check
